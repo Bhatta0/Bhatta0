@@ -29,5 +29,5 @@ AI developer. Open to internship opportunities.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bhatta0)
 
 ---
-⚡ Currently: Building 21 Python projects from basics to Agentic AI
+⚡ Currently: Building Python projects from basics to Agentic AI
 🎯 Goal: AI Developer Internship | Open to Opportunities
