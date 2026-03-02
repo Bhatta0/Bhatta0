@@ -21,8 +21,10 @@ AI developer. Open to internship opportunities.
 | 🔨 Building... | More projects coming daily | Python |
 
 ## 📊 GitHub Stats
-![Ashesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhatta0&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhatta0&layout=compact&theme=tokyonight)
+
+![Ashesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhatta0&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhatta0&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashesh-kumar-bhattacharya-861384231/)
